@@ -1,4 +1,4 @@
-Ticklist offers custumers who regulary climb at the Kletterzentrum VerticalWorld Kassel to track their progress, visualise that progress, compare themselves to others and check their current standing in the overall leaderboard.
+Ticklist offers customers who regulary climb at the Kletterzentrum VerticalWorld Kassel to track their progress, visualise that progress, compare themselves to others and check their current standing in the overall leaderboard.
 In the future I want the side to be used as a form of community where climbers upload videos of their achievements, share beta and ideas and to have a way to track and review their longterm progress through insightful charts and analytics. Furthermore I want to integrate challenges and achievements into the webside to create a more dynamic and interactive user experience.
 
 Libraries, Plugins, Frameworks:
