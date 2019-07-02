@@ -14,7 +14,7 @@ CircularProgressBar
 Next version features and improvements:
 
 - Show an alert when the user wants to log a boulder, show a confirm button and the current form values 
-- Show the users leaderboard position in their profile
+- Show the users leaderboard position in their profile (Completed)
 - Edit  profile functionality with profile picture upload to Firebase Cloud Storage
 - New tap in the users profile where they can view a list of all completed boulders and how they ranked the boulders
 - Lifetime statistics once an new set of problems is released, more statistics in general
